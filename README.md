@@ -36,7 +36,7 @@ Have volunteer experience as Technical Writer on Medium for Code Like a Girl a C
       <li><strong>Design Architecture  - Micro-services and Service Oriented Architecture(SOA)</strong></li>
       <li><strong>Testing Framework  - SWAGGER 2</strong></li>
       <li><strong>Version Control Repo - GitHub, Gitlab</strong></li>
-      <li>Cloud Computing  - AWS (Beginner)</strong></li>
+      <li><strong>Cloud Computing  - AWS (Beginner)</strong></li>
       <li><strong>DevOps - Jenkins, Gitlab CI/CD</strong></li>
      </ul>
     </td>
