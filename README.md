@@ -12,7 +12,7 @@
     <td>
      <br />
      <ul>
-      <li><strong><i>Senior Software Engineer at Chegg, ex-Gaana, Paytm & Navyug with extensive experience in MVC Based frameworks with a contribution not being limited to code.</i></strong></li>
+      <li><strong><i>Senior Software Engineer, ex-Chegg, Gaana, Paytm & Navyug with extensive experience in MVC Based frameworks with a contribution not being limited to code.</i></strong></li>
       <li><strong><i>Designing, implementing and optimizing web products used by millions of users.</i></strong></li>
       <li><strong><i>Turning product plans into the code, in close collaboration with product managers, and other team players.</i></strong></li>
       <li><strong><i>Becoming intimately familiar with our web applications, and forming an expert opinion about how to debug and improve them.</i></strong></li>
