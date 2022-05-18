@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### SSE 6.5+ Years Exp || Pursuing MS in DataScience|| @Chegg, Ex-Gaana, Paytm, Navyug || Open Source Contributor || Techincal Writer :bomb:
+### SSE 7+ Years Exp || Pursuing MS in DataScience from IITB, India and LJMU, London|| @Chegg, Ex-Gaana, Paytm, Navyug || Open Source Contributor || Techincal Writer :bomb:
 
 ### About Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
