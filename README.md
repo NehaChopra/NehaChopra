@@ -3,7 +3,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Lead / SSE 7.5+ Years Exp || Pursuing MS in DataScience from IIITB, India and LJMU, London|| Ex-Chegg, Gaana, Paytm, Navyug || Open Source Contributor || Techincal Writer :bomb:
+### Lead / SSE || MS in DataScience (NLP), India and LJMU, London|| Ex-Chegg, Gaana, Paytm, Navyug || Open Source Contributor || Techincal Writer :bomb:
 
 ### About Me
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
